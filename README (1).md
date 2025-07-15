@@ -6,7 +6,6 @@ This project implements a machine learning-based intrusion detection system usin
 
 - `Final_code.ipynb`: Jupyter Notebook containing full EDA, preprocessing, model training, and evaluation.
 - `UNSW_NB15_training-set.csv` and `UNSW_NB15_testing-set.csv`: Raw datasets used for the project.
-- `NID_Presentation_Bala.pptx`: Presentation summarizing project results and visuals.
 
 ## 🔍 Objective
 
@@ -54,5 +53,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Balaji Manjulamma Sriramareddy**  
+**Venkata Dasaradha Ram Kumar Garlapati**  
 MSc Data Science | University of Hertfordshire  
