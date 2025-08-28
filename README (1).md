@@ -4,7 +4,7 @@ This project implements a machine learning-based intrusion detection system usin
 
 ## 📁 Project Structure
 
-- `Final_code.ipynb`: Jupyter Notebook containing full EDA, preprocessing, model training, and evaluation.
+- `Data Science project final code.ipynb`: Jupyter Notebook containing full EDA, preprocessing, model training, and evaluation.
 - `UNSW_NB15_training-set.csv` and `UNSW_NB15_testing-set.csv`: Raw datasets used for the project.
 
 ## 🔍 Objective
